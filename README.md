@@ -6,19 +6,7 @@ Currently two tools are available
 - VR 360 cam (omnidirectional stereo renderer)
 
 # V-REP-VR-Interface
-This repository contains the code to experience V-REP in VR. It can visualize V-REP scenes in openvr compatible devices (HTC-VIVE and HTC-VIVE Pro are tested) and return user manipulations to V-REP. It is also able to visualize the coverage of camera systems (later more).
-
-Installation instructions and a feature overview is now also available in a youtube video:
-https://www.youtube.com/watch?v=_GXVdgihVgQ
-An update video of new features in V2 and V2.1 is also available:
-https://youtu.be/ozam2Ew7RdA
-
-Some Youtube videos showing the interface in action:
-- https://www.youtube.com/watch?v=yMydjviF7yg
-- https://www.youtube.com/watch?v=Dsh8oyN4sD0&t
-- https://youtu.be/nakQGTs4Fs0
-- https://youtu.be/3Lvhmh3th3Q
-- https://www.youtube.com/watch?v=QYX7WIiahbw (courtesy of Mathieu Lauret and Amir Beddiaf)
+This repository contains the code to experience V-REP in VR. It can visualize V-REP scenes in openvr compatible devices (HTC-VIVE and HTC-VIVE Pro & TRESL-tested Oculus Rift S & Oculus Quest-Link) and return user manipulations to V-REP. It is also able to visualize the coverage of camera systems (later more).
 
 The interface has the following capabilities:
 - Read all renderable geometry from V-REP (colors, opacities and (moving) textures are also transfered)
